@@ -1,32 +1,34 @@
-# Bienvenida o Bienvenido a mi Portfolio de Ciencia de Datos
+# Bienvenido(a) a mi Portfolio
 
 ---
 
-## Mi primer proyecto
-[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
+## Proyectos
+### [Análisis exploratorio de datos (EDA) de clientes “CHURN” con PYTHON]
 
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/tu-repo)
+En el presente artículo se analizará el comportamiento que tiene la taza de desactivación “CHURN RATE” 
+con base en la extracción de datos de un banco mundial. [Seguir leyendo en Medium](https://medium.com/@pacheco.arana.luis/an%C3%A1lisis-exploratorio-de-datos-eda-de-clientes-churn-con-python-14be26484c7c) o [Ver código en GitHub](https://github.com/LuisPacharan/proyecto-portafolio/blob/main/DataSetElegido/Analisis_EDA1_churn.ipynb)
 
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
 
----
-
-### Mis Skills son
-
-- Python
-- R
-- Excel
-- ...
+[<img src="images/Bank_EtienneMa.jpeg?raw=true"/>](https://medium.com/@pacheco.arana.luis/an%C3%A1lisis-exploratorio-de-datos-eda-de-clientes-churn-con-python-14be26484c7c)
 
 ---
 
-### Me puedes contactar por una de estás vías
+### Mis Competencias son
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Correo electrónico a <correo@gmail.com>
-- [GitHub](https://github.com/tu-github/)
-- [Twitter](https://twitter.com/tu-twitter)
-- [Medium](https://medium.com/@tu-medium)
-- [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
+- Extracción,Transformación y Carga de Datos (ETL).
+- Elaboración de DTS mediante (SSIS) SQL Server Integrations Services con Visual Studio.
+- Microsoft SQL Server, atomatización de procesos (scheduled jobs,stored procedures). 
+- MySQL, Teradata, DBVisualizer.
+- Análisis Exploratio de Datos (EDA) con Python.
+- PHP + HTML.
+
+---
+
+### Me puedes contactar por una de estas vías
+
+- [LinkedIn](https://www.linkedin.com/in/luis-enrique-pacheco-arana/)
+- [GitHub](https://github.com/LuisPacharan/)
+- [Medium](https://medium.com/@pacheco.arana.luis)
+- [Mi CV](/pdf/CV_LEPA.pdf)
 
 ---
