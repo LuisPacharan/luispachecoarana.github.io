@@ -30,5 +30,5 @@ con base en la extracción de datos de un banco mundial. [Seguir leyendo en Medi
 - [GitHub](https://github.com/LuisPacharan/)
 - [Medium](https://medium.com/@pacheco.arana.luis)
 - [Mi CV](/pdf/CV_LEPA.pdf)
-- [Prueba WS :]( https://wa.me/525620468678 )
+- Prueba WS [https://wa.me/525620468678]
 ---
