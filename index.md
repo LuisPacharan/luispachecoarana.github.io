@@ -31,4 +31,16 @@ con base en la extracción de datos de un banco mundial. [Seguir leyendo en Medi
 - [Medium](https://medium.com/@pacheco.arana.luis)
 - [Mi CV](/pdf/CV_LEPA.pdf)
 - [Prueba WS](https://wa.me/525620468678)
+
+[<div class="whatsapp--widget animate__animated animate__pulse animate__infinite">
+		<a class="btn_whats" id="wa_bot" href="https://wa.me/525620468678?&amp;
+		text=Requiero%20información%20de%20los%20servicios.%20Solicitud%20G01MXBBB01https://wa.me/525620468678?&amp;text=Requiero%20información%20de%20los%20servicios.%20Solicitud%20G01MXBBB01" 
+target="new"> 
+<p><span id="btn_whats_bot">Conversemos</span></p>
+<img class="waicon" src="assets/img/whats_icon.png" alt="Conversemos por WhatsApp">
+			
+		</a>
+	</div>]
+
+
 ---
