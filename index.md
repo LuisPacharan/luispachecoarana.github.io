@@ -30,5 +30,4 @@ con base en la extracción de datos de un banco mundial. [Seguir leyendo en Medi
 - [GitHub](https://github.com/LuisPacharan/)
 - [Medium](https://medium.com/@pacheco.arana.luis)
 - [Mi CV](/pdf/CV_LEPA.pdf)
-- [Prueba WS]
-- [<img src="images/icon_ws.png?raw=true"/>] (https://wa.me/5215552624977?&amp;text=Hola!%0ASoy%20Sel%20Asistente%20Virtual%20de%20ATT!%0AElige%20una%20opción:%0A)
+- [<img src="images/icon_ws.png?raw=true"/>] (https://wa.me/5620468678?&amp;text=Hola!%0ASoy%20Sel%20Asistente%20Virtual%20de%20ATT!%0AElige%20una%20opción:%0A)
