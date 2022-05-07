@@ -13,6 +13,17 @@ con base en la extracción de datos de un banco mundial. [Seguir leyendo en Medi
 
 ---
 
+## Sentencias Microsoft SQL Server
+### [Consultas de apoyo , sentencias SQL SERVER]
+
+En la presente página estaré subiendo algunas sentencias de SQL Server, las cuales puedan servir de apoyo con ejemplos de Lenguaje de Definición de Datos “DDL” y Lenguaje de Manipulación de Datos “DML”.
+
+[Continuar Aquì:](https://www.notion.so/Sentencias-Microsoft-SQL-Server-61e9f4fd239d4bdfb5decc2f7fcd742e)
+
+[<img src="images/img_SentenciasSQL.png?raw=true"/>](https://www.notion.so/Sentencias-Microsoft-SQL-Server-61e9f4fd239d4bdfb5decc2f7fcd742e)
+
+---
+
 ### Mis Competencias son
 
 - Extracción,Transformación y Carga de Datos (ETL).
