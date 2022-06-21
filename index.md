@@ -29,9 +29,9 @@ En la presente página estaré subiendo algunas sentencias de SQL Server, las cu
 
 En la presente página estaré subiendo algunos links de algunas páginas con lo más nuevo en tendencias tecnológicas.
 
-[Continuar Aquì:](https://www.notion.so/Lo-m-s-top-en-tecnolog-a-39f3704635334835ac0d731e87e5dd1d)
+[Continuar Aquì:](https://flat-grass-e6e.notion.site/Lo-m-s-top-en-tecnolog-a-39f3704635334835ac0d731e87e5dd1d)
 
-[<img src="images/thisisengineering.jpg?raw=true"/>](https://www.notion.so/Lo-m-s-top-en-tecnolog-a-39f3704635334835ac0d731e87e5dd1d)
+[<img src="images/thisisengineering.jpg?raw=true"/>](https://flat-grass-e6e.notion.site/Lo-m-s-top-en-tecnolog-a-39f3704635334835ac0d731e87e5dd1d)
 
 ---
 
