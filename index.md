@@ -43,10 +43,11 @@ En la presente página estaré subiendo algunos links de algunas páginas con lo
 
 - Extracción,Transformación y Carga de Datos (ETL).
 - Elaboración de DTS mediante (SSIS) SQL Server Integrations Services con Visual Studio.
-- Microsoft SQL Server, atomatización de procesos (scheduled jobs,stored procedures). 
+- Microsoft SQL Server, DDL, DML, atomatización de procesos (scheduled jobs,stored procedures). 
 - MySQL, Teradata, DBVisualizer.
 - Análisis Exploratio de Datos (EDA) con Python.
 - PHP + HTML.
+- En constante aprendizaje con las nuevas tecnologías de Información.
 
 ---
 
