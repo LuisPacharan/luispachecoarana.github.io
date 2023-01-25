@@ -18,9 +18,9 @@ con base en la extracción de datos de un banco mundial. [Seguir leyendo en Medi
 
 En la presente página estaré subiendo algunas sentencias de SQL Server, las cuales puedan servir de apoyo con ejemplos de Lenguaje de Definición de Datos “DDL” y Lenguaje de Manipulación de Datos “DML”.
 
-[Continuar Aquì:](https://www.notion.so/Sentencias-Microsoft-SQL-Server-61e9f4fd239d4bdfb5decc2f7fcd742e)
+[Continuar Aquì:](https://flat-grass-e6e.notion.site/Sentencias-Microsoft-SQL-Server-61e9f4fd239d4bdfb5decc2f7fcd742e)
 
-[<img src="images/img_SentenciasSQL.png?raw=true"/>](https://www.notion.so/Sentencias-Microsoft-SQL-Server-61e9f4fd239d4bdfb5decc2f7fcd742e)
+[<img src="images/img_SentenciasSQL.png?raw=true"/>](https://flat-grass-e6e.notion.site/Sentencias-Microsoft-SQL-Server-61e9f4fd239d4bdfb5decc2f7fcd742e)
 
 ---
 
@@ -34,9 +34,6 @@ En la presente página estaré subiendo algunos links de algunas páginas con lo
 [<img src="images/thisisengineering.jpg?raw=true"/>](https://flat-grass-e6e.notion.site/Lo-m-s-top-en-tecnolog-a-39f3704635334835ac0d731e87e5dd1d)
 
 ---
-
-
-
 
 
 ### Mis Competencias son
@@ -56,5 +53,4 @@ En la presente página estaré subiendo algunos links de algunas páginas con lo
 - [LinkedIn](https://www.linkedin.com/in/luis-enrique-pacheco-arana/)
 - [GitHub](https://github.com/LuisPacharan/)
 - [Medium](https://medium.com/@pacheco.arana.luis)
-- [Mi CV](/pdf/CV_LEPA.pdf) 
 
