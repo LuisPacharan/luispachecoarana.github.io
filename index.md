@@ -44,7 +44,8 @@ En la presente página estaré subiendo algunos links de algunas páginas con lo
 - MySQL, Teradata, DBVisualizer.
 - Análisis Exploratio de Datos (EDA) con Python.
 - PHP + HTML.
-- En constante aprendizaje con las nuevas tecnologías de Información.
+- Google Cloud Platform (GCP).
+- En constante aprendizaje con las nuevas tecnologías de Información y Trasformación Digital.
 
 ---
 
