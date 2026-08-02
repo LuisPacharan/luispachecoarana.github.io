@@ -39,14 +39,14 @@ En la presente página estaré subiendo algunos links de algunas páginas con lo
 ### Mis Competencias son
 
 - Arquitectura de Datos y Procesos Serverless en GCP: Ingesta y orquestación masiva con Pub/Sub, Dataproc Serverless, Cloud Storage, BigQuery, Cloud Run y Cloud Composer, bajo arquitectura segura (VPC, Cloud NAT, Secret Manager).
--Extracción, Transformación y Carga de Datos (ETL / ELT): Diseño de pipelines batch y near-real-time On-Premise y Cloud.
--Elaboración de DTS mediante (SSIS) SQL Server Integration Services con Visual Studio.
--Microsoft SQL Server: DDL, DML, automatización de procesos (scheduled jobs, stored procedures, triggers).
--Bases de Datos y Data Warehouse: MySQL, Oracle PL/SQL, Teradata, Google BigQuery; uso de DBVisualizer y SQL Developer.
--Análisis Exploratorio de Datos (EDA) y manipulación masiva de datos con Python (Pandas, NumPy).
--Desarrollo Web y Software: PHP, HTML, CSS, C#.
--Tester QA y Automatización de Procesos: RPA (Robocorp), Selenium, scripts con Python.
--En constante aprendizaje y adopción de nuevas tecnologías e infraestructura de Información (TI).
+- Extracción, Transformación y Carga de Datos (ETL / ELT): Diseño de pipelines batch y near-real-time On-Premise y Cloud.
+- Elaboración de DTS mediante (SSIS) SQL Server Integration Services con Visual Studio.
+- Microsoft SQL Server: DDL, DML, automatización de procesos (scheduled jobs, stored procedures, triggers).
+- Bases de Datos y Data Warehouse: MySQL, Oracle PL/SQL, Teradata, Google BigQuery; uso de DBVisualizer y SQL Developer.
+- Análisis Exploratorio de Datos (EDA) y manipulación masiva de datos con Python (Pandas, NumPy).
+- Desarrollo Web y Software: PHP, HTML, CSS, C#.
+- Tester QA y Automatización de Procesos: RPA (Robocorp), Selenium, scripts con Python.
+- En constante aprendizaje y adopción de nuevas tecnologías e infraestructura de Información (TI).
 
 ---
 
